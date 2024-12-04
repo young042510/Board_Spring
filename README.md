@@ -1,3 +1,7 @@
+### Spring으로 Board 만들기
+- 게시물 작성/등록/수정/삭제
+
+
 ### mysql 계정 만들기
 ```
     create database db_codingrecipe;
